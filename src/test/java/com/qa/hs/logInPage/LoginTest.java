@@ -20,6 +20,7 @@ public class LoginTest {
 		
 		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Jars\\Selenium Projects\\LocalBadabing Project with Selenium"
 				+ "\\Badabing Project\\DataDrivenFrameworkUsingPOI\\chromedriver.exe");
+System.out.println("************************");
 		driver = new ChromeDriver();
 		
 		
